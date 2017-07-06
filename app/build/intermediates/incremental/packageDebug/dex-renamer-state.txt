@@ -1,0 +1,7 @@
+#Fri Mar 03 23:04:41 IST 2017
+base.0=/home/shyam/Android Studio Projects/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7c16ca825eaeba329cc99c28043ffe37be95591c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/shyam/Android Studio Projects/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54422d156ca417d599adaeddc270b11fb5ee4aeb/classes.dex
+base.1=/home/shyam/Android Studio Projects/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54422d156ca417d599adaeddc270b11fb5ee4aeb
+file.0=/home/shyam/Android Studio Projects/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7c16ca825eaeba329cc99c28043ffe37be95591c/classes.dex

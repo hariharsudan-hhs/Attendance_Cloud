@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "X:\\home\\shyam\\Android Studio Projects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "X:\\home\\shyam\\Android Studio Projects\\Attendance\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "X:\\Android Projects\\Attendance\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "X:\\Android Projects\\Attendance\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "X:\\home\\shyam\\Android Studio Projects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "X:\\home\\shyam\\Android Studio Projects\\Attendance\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
